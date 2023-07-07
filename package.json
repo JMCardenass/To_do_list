@@ -1,0 +1,29 @@
+{
+  "name": "to_do_list",
+  "version": "1.0.0",
+  "description": "\"create a nue fiel with to do list \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JMCardenass/To_do_list.git"
+  },
+  "keywords": [
+    "express",
+    "nod",
+    "to",
+    "do",
+    "list"
+  ],
+  "author": "Juan Cardenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMCardenass/To_do_list/issues"
+  },
+  "homepage": "https://github.com/JMCardenass/To_do_list#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

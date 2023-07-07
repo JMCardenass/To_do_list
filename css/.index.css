@@ -1,0 +1,17 @@
+*{
+    padding: 10px;
+    margin: 0;
+}
+
+body {
+    background: #1b4e6a;
+}
+h1 {
+    color: #ffffff;
+    padding: 2;
+    font-size: 16px;
+}
+button{
+    background:  #717af6fc;
+    color: #ffffff;
+}
